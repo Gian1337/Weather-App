@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body{
+    background-color: #070707;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container{
+    background-color: #C1EEFF;
+    padding: 20px;
+    display: flex;
+}
+
+#container > .bloque{
+    padding: 20px;
+}
+
+.bloque{
+    background-color: #070707;
+}
+
+#locacion{
+    font-size: 20px;
+}
+
